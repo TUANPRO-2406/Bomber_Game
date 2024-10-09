@@ -1,6 +1,8 @@
 import pygame, sys, os
 from pygame.locals import *
 
+print("What the Shit?")
+
 # Khởi tạo pygame
 pygame.init()
 
